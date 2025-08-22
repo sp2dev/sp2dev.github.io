@@ -7,7 +7,7 @@ QQ group: `1017266582`
 Steam Chat: [inspiring chat](https://s.team/chat/AuwrLk11)
 
 ## my devices:
-Phone: HONOR 30 Lite
+Phone: OnePlus Ace 5 Race (12GB+512GB)
 
 PC: MECHREVO WUJIE 15X (32GB+1T)
 

@@ -1,0 +1,6 @@
+Magisk   -> zygisk
+   +     -> APatch
+KernelSU
+   |-> SukiSU -> SukiSU-Ultra
+   |
+   |-> KernelSU-Next

@@ -12,7 +12,7 @@
 <details>
 <summary>查看示例</summary>
 
-![添加网络](images/first_launch.png)
+![添加网络](./images/osuirc_first_launch.png)
 
 </details>
 </br>
@@ -29,7 +29,7 @@
 <details>
 <summary>网络编辑页面示例</summary>
 
-![示例](images/osuirc_network_editing.png)
+![示例](./images/osuirc_network_editing.png)
 
 </details>
 </br>
@@ -44,13 +44,9 @@
 
 ## 使用 IRC
 
+连接成功图例
+![连接成功图例](./images/osuirc_connected.png)
 
-<details>
-<summary>连接成功图例</summary>
+### 常见用法
 
-![连接成功图例](images/osuirc_connected.png)
-
-</details>
-</br>
-
-常见的用法是创建并管理多人游戏，可使用 `/query Banchobot` 后对其发送 [比赛管理指令](https://osu.ppy.sh/wiki/zh/osu%21_tournament_client/osu%21tourney/Tournament_management_commands#%E4%BE%8B%E5%AD%90) 以使用本功能
+创建并管理多人游戏，可使用 `/query Banchobot` 后对其发送 [比赛管理指令](https://osu.ppy.sh/wiki/zh/osu%21_tournament_client/osu%21tourney/Tournament_management_commands#%E4%BE%8B%E5%AD%90) 以使用

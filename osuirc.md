@@ -53,7 +53,7 @@
 
 房间创建好后向你发送比赛链接并自动将你拉入房间聊天频道
 
-> [!INFO]
+> [!NOTE]
 > 可在 [osu! wiki](https://osu.ppy.sh/wiki/zh/osu%21_tournament_client/osu%21tourney/Tournament_management_commands) 查阅比赛管理指令
 
 以下是与游戏内聊天不同之处

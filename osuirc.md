@@ -49,7 +49,12 @@
 
 
 ## 创建并管理多人游戏
-可使用 `/query Banchobot` 后对其发送 [比赛管理指令](https://osu.ppy.sh/wiki/zh/osu%21_tournament_client/osu%21tourney/Tournament_management_commands#%E4%BE%8B%E5%AD%90) 以使用
+可使用 `/query Banchobot` 后对其发送 `!mp make <房间名>` 以开始
+
+房间创建好后向你发送比赛链接并自动将你拉入房间聊天频道
+
+> [!INFO]
+> 可在 [osu! wiki](https://osu.ppy.sh/wiki/zh/osu%21_tournament_client/osu%21tourney/Tournament_management_commands) 查阅比赛管理指令
 
 以下是与游戏内聊天不同之处
 
@@ -66,7 +71,7 @@
 <BanchoBot> All players are ready
 ```
 
-* 一轮游戏完成后，会按排名显示成绩及通过情况
+* 一轮游戏完成后，会按排名显示结果及通过情况
 
 ```text
 <BanchoBot> (username) finished playing (Score: 114514, PASSED).

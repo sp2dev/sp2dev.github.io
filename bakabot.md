@@ -1,5 +1,9 @@
 # bakabot
 
+<img width="160" height="160" alt="bakabot" align="center" src="https://github.com/user-attachments/assets/1a7e3ea4-7162-4b93-8a10-b29526252a5a"/>
+
+bakabot 的头像，[原图链接](https://www.pixiv.net/artworks/136331327)
+
 ## 描述
 
 bakabot 是由我（theinspired）搭建并运行的 QQ 机器人，集成了一些 [osu!](https://osu.ppy.sh/) 功能及其他娱乐小插件

@@ -37,9 +37,11 @@ bakabot 的名字源于 `東方 Project` 中角色 `琪露诺` 的外号 `バカ
 | wordle 成语版   | 猜成语 | [nonebot-plugin-handle](https://github.com/noneplugin/nonebot-plugin-handle) |
 | 扫雷 | /扫雷 | [nonebot-plugin-minesweeper](https://github.com/noneplugin/nonebot-plugin-minesweeper) |
 | 词云 | /今日词云 | [nonebot-plugin-wordcloud](https://github.com/he0119/nonebot-plugin-wordcloud) |
-| 龙图 | /龙图 [数量] | [nonebot-plugin-longtu](https://github.com/Perseus037/nonebot_plugin_longtu) |
 | osubot | *没错我又加了一个 osu! 插件* | [nonebot-plugin-osubot](https://github.com/yaowan233/nonebot-plugin-osubot) |
 | 旅行伙伴加入 | /加入 [图片] | [nonebot-plugin-partner-join](https://github.com/YuuzukiRin/nonebot_plugin_partner_join) |
+|今日小猪|/今日小猪|[nonebot-plugin-rollpig](https://github.com/Bearlele/nonebot-plugin-rollpig)|
+|osugreek|/osugreek [回复图片]|[nonebot-plugin-osugreek](https://github.com/YakumoZn/nonebot-plugin-osugreek)|
+
 
 ## 群聊
 

@@ -1,16 +1,16 @@
 # bakabot
 
-<img width="160" height="160" alt="bakabot" align="center" src="https://github.com/user-attachments/assets/1a7e3ea4-7162-4b93-8a10-b29526252a5a"/>
+<img width="160" height="160" alt="bakabot" src="https://github.com/user-attachments/assets/1a7e3ea4-7162-4b93-8a10-b29526252a5a"/>
 
-bakabot 的头像，[原图链接](https://www.pixiv.net/artworks/136331327)
+bakabot 头像，[原图链接](https://www.pixiv.net/artworks/136331327)
 
 ## 描述
 
-bakabot 是由我（theinspired）搭建并运行的 QQ 机器人，集成了一些 [osu!](https://osu.ppy.sh/) 功能及其他娱乐小插件
+bakabot 是由 theinspired 搭建并运行的 QQ 机器人，集成了一些 [osu!](https://osu.ppy.sh/) 功能及其他娱乐小插件
 
 bakabot 的 QQ 号为 `3641856874`
 
-bakabot 的名字源于 `東方 Project` 中角色 `琪露诺` 的外号 `バカ`(译名：笨蛋；罗马音：baka)
+bakabot 的名字源于 `東方 Project` 中角色 `琪露诺` 的外号 `バカ`(译为 `笨蛋`；罗马音：`baka`)
 
 ## 已对接的外部机器人们
 
@@ -20,13 +20,13 @@ bakabot 的名字源于 `東方 Project` 中角色 `琪露诺` 的外号 `バカ
 | 消防栓 | [项目地址](https://github.com/b11p/OsuQqBotForNewbieGroup) | [使用文档](https://xfs.b11p.com/) |
 
 > [!IMPORTANT]
-> 
+>
 > 加好友时请及时 **通过任意渠道通知 bot 主同意好友请求**
->  * 邮箱: [theinsp2@outlook.com](mailto:theinsp2@outlook.com)
->  * QQ: `1919818483`
-> 
+>
+> * 邮箱: [theinsp2@outlook.com](mailto:theinsp2@outlook.com)
+> * QQ: `1919818483`
+>
 > 拉群时请务必 **征得对应群群主/管理组的同意** 并通知 bot 主同意加群请求
-
 
 ## 功能列表
 
@@ -43,13 +43,14 @@ bakabot 的名字源于 `東方 Project` 中角色 `琪露诺` 的外号 `バカ
 | 词云 | /今日词云 | [nonebot-plugin-wordcloud](https://github.com/he0119/nonebot-plugin-wordcloud) |
 | osubot | *没错我又加了一个 osu! 插件* | [nonebot-plugin-osubot](https://github.com/yaowan233/nonebot-plugin-osubot) |
 | 旅行伙伴加入 | /加入 [图片] | [nonebot-plugin-partner-join](https://github.com/YuuzukiRin/nonebot_plugin_partner_join) |
-|今日小猪|/今日小猪|[nonebot-plugin-rollpig](https://github.com/Bearlele/nonebot-plugin-rollpig)|
-|osugreek|/osugreek [回复图片]|[nonebot-plugin-osugreek](https://github.com/YakumoZn/nonebot-plugin-osugreek)|
+| 今日小猪 | /今日小猪 |[nonebot-plugin-rollpig](https://github.com/Bearlele/nonebot-plugin-rollpig)|
+| osugreek | /osugreek [回复图片]|[nonebot-plugin-osugreek](https://github.com/YakumoZn/nonebot-plugin-osugreek)|
+| 其他不明所以的东西 | 乱七八糟的 | [gist（不常更新）](https://gist.github.com/sp2dev/1755231526b4db002314c6136e47dd7a) |
 
 
 ## 群聊
 
-[bakaHub](https://qun.qq.com/universal-share/share?ac=1&authKey=bffB7HAFC9xxznO46OsS5Os9KbPGRL9syyiuCw3AfYSBNV2e3ilKUAr6Ulsk4BW6&busi_data=eyJncm91cENvZGUiOiIxMDE3MjY2NTgyIiwidG9rZW4iOiJVcEFSRzBxcXBydUpuaE9ucVV4YXZJb29zOWRidVVLV3VrOGpYZTlPMVp1QWlJTG9RRm1HWTVYRFZ1QW41ak9JIiwidWluIjoiMTkxOTgxODQ4MyJ9&data=XEXGs8BX8l4_OkF0sN2sRMkpVq2JpVP6GJOQYoF7ZnrTBGtV_WQihhCcQNMh85plHQL5zdp21imZ9yv39aYh1g&svctype=4&tempid=h5_group_info)
+[bakaHub](https://qm.qq.com/q/PnglZRklg0)
 （群号：1017266582）
 
 ## 一些说明

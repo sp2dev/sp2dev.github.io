@@ -47,11 +47,11 @@
 连接成功图例
 ![连接成功图例](./images/osuirc_connected.png)
 
-
 ## 创建并管理多人游戏
-可使用 `/query Banchobot` 后对其发送 `!mp make <房间名>` 以开始
 
-房间创建好后向你发送比赛链接并自动将你拉入房间聊天频道
+可使用 `/query BanchoBot` 后对其发送 `!mp make <房间名>` 以开始
+
+房间创建好后会自动向你发送比赛链接并将你拉入房间聊天频道
 
 > [!NOTE]
 > 可在 [osu! wiki](https://osu.ppy.sh/wiki/zh/osu%21_tournament_client/osu%21tourney/Tournament_management_commands) 查阅比赛管理指令
@@ -75,4 +75,5 @@
 
 ```text
 <BanchoBot> (username) finished playing (Score: 114514, PASSED).
+<BanchoBot> (username) finished playing (Score: 233, FAILED).
 ```

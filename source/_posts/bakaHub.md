@@ -1,4 +1,9 @@
-# bakaHub
+---
+title: bakaHub
+excerpt: 神秘笨蛋窝点
+tags: baka
+---
+
 
 ## 概览
 
@@ -11,7 +16,7 @@ bakaHub
 
 还会爆炸💥
 
-还有 [bakabot](./bakabot.md)
+还有 [bakabot](/2026-04-15-bakabot)
 
 ## links
 

@@ -1,8 +1,12 @@
-# bakabot
+---
+title: bakabot
+excerpt: 由 theinspired 搭建并运行的 QQ 机器人，集成了一些 osu! 功能及其他娱乐小插件
+---
 
-<img width="160" height="160" alt="bakabot" src="https://github.com/user-attachments/assets/1a7e3ea4-7162-4b93-8a10-b29526252a5a"/>
 
-bakabot 头像，[原图链接](https://www.pixiv.net/artworks/136331327)
+![bakabot 头像](/images/bakabot.png)
+
+[头像原图链接](https://www.pixiv.net/artworks/136331327)
 
 ## 描述
 
@@ -46,7 +50,6 @@ bakabot 的名字源于 `東方 Project` 中角色 `琪露诺` 的外号 `バカ
 | 今日小猪 | /今日小猪 |[nonebot-plugin-rollpig](https://github.com/Bearlele/nonebot-plugin-rollpig)|
 | osugreek | /osugreek [回复图片]|[nonebot-plugin-osugreek](https://github.com/YakumoZn/nonebot-plugin-osugreek)|
 | 其他不明所以的东西 | 乱七八糟的 | [gist（不常更新）](https://gist.github.com/sp2dev/1755231526b4db002314c6136e47dd7a) |
-
 
 ## 群聊
 

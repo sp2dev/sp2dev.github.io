@@ -1,4 +1,8 @@
-# osu! IRC 使用指南
+---
+title: osu! IRC 使用指南
+excerpt: 一个简易的 osu!IRC 使用教程 
+---
+
 
 ## 先决条件
 
@@ -12,7 +16,7 @@
 <details>
 <summary>查看示例</summary>
 
-![添加网络](./images/osuirc_first_launch.png)
+![添加网络](/images/osuirc/osuirc_first_launch.png)
 
 </details>
 </br>
@@ -29,23 +33,25 @@
 <details>
 <summary>网络编辑页面示例</summary>
 
-![示例](./images/osuirc_network_editing.png)
+![示例](/images/osuirc/osuirc_network_editing.png)
 
 </details>
 </br>
 
 完成之后点击 `连接(O)` 即可连接
 
-> [!NOTE]
-> 由于 HexChat 的字体问题，连接之后通常会出现中文乱码的现象，你需要在 `设置(E)` - `首选项(P)` - `外观` - `一般` 中切换一款支持中文的字体（如微软雅黑）。
+{% note info %}
+由于 HexChat 的字体问题，连接之后通常会出现中文乱码的现象，你需要在 `设置(E)` - `首选项(P)` - `外观` - `一般` 中切换一款支持中文的字体（如微软雅黑）。
+{% endnote %}
 
-> [!NOTE]
-> 可到 [osu! 的官方 wiki](https://osu.ppy.sh/wiki/zh/Community/Internet_Relay_Chat) 查看更多说明
+{% note info %}
+可到 [osu! 的官方 wiki](https://osu.ppy.sh/wiki/zh/Community/Internet_Relay_Chat) 查看更多说明
+{% endnote %}
 
 ## 使用 IRC
 
 连接成功图例
-![连接成功图例](./images/osuirc_connected.png)
+![连接成功图例](/images/osuirc/osuirc_connected.png)
 
 ## 创建并管理多人游戏
 
@@ -53,8 +59,9 @@
 
 房间创建好后会自动向你发送比赛链接并将你拉入房间聊天频道
 
-> [!NOTE]
-> 可在 [osu! wiki](https://osu.ppy.sh/wiki/zh/osu%21_tournament_client/osu%21tourney/Tournament_management_commands) 查阅比赛管理指令
+{% note info %}
+可在 [osu! wiki](https://osu.ppy.sh/wiki/zh/osu%21_tournament_client/osu%21tourney/Tournament_management_commands) 查阅比赛管理指令
+{% endnote %}
 
 以下是与游戏内聊天不同之处
 

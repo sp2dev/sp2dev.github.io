@@ -1,0 +1,21 @@
+#--------
+# fluid settings
+
+fun_features:
+  typing: # 为 subtitle 添加打字机效果
+    enable: false
+
+navbar:
+  blog_title: theinspiring blog
+
+lazyload:
+  enable: true
+  loading_img: /img/loading.gif
+  onlypost: false
+  offset_factor: 2
+
+
+index:
+  slogan:
+    enable: true
+    text: "theinspired 的 爆炸 blog"

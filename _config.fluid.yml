@@ -19,3 +19,5 @@ index:
   slogan:
     enable: true
     text: "theinspired 的 爆炸 blog"
+
+favicon: /images/favicon.ico

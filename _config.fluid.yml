@@ -19,5 +19,11 @@ index:
   slogan:
     enable: true
     text: "theinspired 的 爆炸 blog"
+    banner_img: https://bing.biturl.top/?resolution=UHD&format=image
 
 favicon: /images/favicon.ico
+
+post:
+  banner_img: https://bing.biturl.top/?resolution=UHD&format=image
+  banner_img_height: 70
+  banner_mask_alpha: 0.7

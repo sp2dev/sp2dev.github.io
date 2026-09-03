@@ -5,6 +5,12 @@ excerpt: 一个 Soundpad 的激活教程
 categories: tutorial
 ---
 
+{% note primary %}
+
+仅作学习用途，请支持正版
+
+{% endnote %}
+
 ## 步骤
 
 本文使用到的内容全都在 [**本链接**](https://heblast.lanzoum.com/izExz3npo59a) 内，压缩包内也已附带全套使用教程
